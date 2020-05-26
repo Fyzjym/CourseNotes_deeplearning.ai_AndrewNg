@@ -1,4 +1,4 @@
-# CourseNotes--deeplearning.ai_AndrewNg
+# CourseNotes:deeplearning.ai AndrewNg
 吴恩达《深度学习》系列课程总结
 
 ## 课程
