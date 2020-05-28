@@ -6,3 +6,6 @@ https://study.163.com/provider/2001053000/course.htm
 
 ## 吴恩达课后作业目录
 https://blog.csdn.net/u013733326/article/details/79827273
+
+## 参考
+https://github.com/Kulbear/deep-learning-coursera
