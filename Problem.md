@@ -14,3 +14,4 @@
       * code：  X_flatten = X.reshape(X.shape [0]，-1).T ＃X.T是X的转置  <br>
 * A2：理解     <br>
       * https://blog.csdn.net/TeFuirnever/article/details/88919206  <br>
+      * 即：优先指定一个维度X.shape[0]，再将另一维度设置为-1（-1代表：未指定行列数），最后转置即可。  <br>
