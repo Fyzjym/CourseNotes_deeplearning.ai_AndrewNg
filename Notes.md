@@ -24,6 +24,6 @@
 * 机器学习中一个常见的预处理步骤是对数据集进行居中和标准化，这意味着可以减去每个示例中整个numpy数组的平均值，然后将每个示例除以整个numpy数组的标准偏差。但对于图片数据集，它更简单，更方便，几乎可以将数据集的每一行除以255（像素通道的最大值），因为在RGB中不存在比255大的数据，所以我们可以放心的除以255，让标准化的数据位于[0,1]之间
 * What you need to remember: --by wuenda     </br> 
 Common steps for pre-processing a new dataset are:
-Figure out the dimensions and shapes of the problem (m_train, m_test, num_px, ...)    </br> 
-Reshape the datasets such that each example is now a vector of size (num_px * num_px * 3, 1)    </br> 
-"Standardize" the data    </br> 
+1. Figure out the dimensions and shapes of the problem (m_train, m_test, num_px, ...)    </br> 
+2. Reshape the datasets such that each example is now a vector of size (num_px * num_px * 3, 1)    </br> 
+3. "Standardize" the data    </br> 
