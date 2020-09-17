@@ -3,6 +3,7 @@
 ## Course 01 神经网络和深度学习    </br>
 
 ### Week 02 神经网络基础    </br>
+
 ### note1 向量化    </br>
 * 别用 for、while等循环，还记得 向量化吗
 * 预处理数据集的常见步骤是：    </br>
@@ -27,3 +28,6 @@ Common steps for pre-processing a new dataset are:
 1. Figure out the dimensions and shapes of the problem (m_train, m_test, num_px, ...)    </br> 
 2. Reshape the datasets such that each example is now a vector of size (num_px * num_px * 3, 1)    </br> 
 3. "Standardize" the data    </br> 
+
+### note4 learnint rate    </br>
+* Choose the learning rate that better minimizes the cost function.    </br>
