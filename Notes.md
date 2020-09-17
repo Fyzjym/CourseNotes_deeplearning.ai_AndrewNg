@@ -29,5 +29,5 @@ Common steps for pre-processing a new dataset are:
 2. Reshape the datasets such that each example is now a vector of size (num_px * num_px * 3, 1)    </br> 
 3. "Standardize" the data    </br> 
 
-### note4 learnint rate    </br>
+### note4 learning rate    </br>
 * Choose the learning rate that better minimizes the cost function.    </br>
