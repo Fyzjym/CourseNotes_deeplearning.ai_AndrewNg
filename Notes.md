@@ -36,7 +36,7 @@ Common steps for pre-processing a new dataset are:
     1. Define the neural network structure ( # of input units,  # of hidden units, etc).     </br>
     2. Initialize the model's parameters    </br>
     3. Loop:    </br>
-        - Implement forward propagation    </br>
-        - Compute loss    </br>
-        - Implement backward propagation to get the gradients    </br>
-        - Update parameters (gradient descent)    </br>
+        * Implement forward propagation    </br>
+        * Compute loss    </br>
+        * Implement backward propagation to get the gradients    </br>
+        * Update parameters (gradient descent)    </br>
