@@ -31,3 +31,12 @@ Common steps for pre-processing a new dataset are:
 
 ### note4 learning rate    </br>
 * Choose the learning rate that better minimizes the cost function.    </br>
+### note5 The general methodology to build a Neural Network    </br>
+**Reminder**: The general methodology to build a Neural Network is to:    </br>
+    1. Define the neural network structure ( # of input units,  # of hidden units, etc).     </br>
+    2. Initialize the model's parameters    </br>
+    3. Loop:    </br>
+        - Implement forward propagation    </br>
+        - Compute loss    </br>
+        - Implement backward propagation to get the gradients    </br>
+        - Update parameters (gradient descent)    </br>
