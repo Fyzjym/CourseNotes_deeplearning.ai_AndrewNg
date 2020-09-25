@@ -31,7 +31,10 @@ Common steps for pre-processing a new dataset are:
 
 ### note4 learning rate    </br>
 * Choose the learning rate that better minimizes the cost function.    </br>
-### note5 The general methodology to build a Neural Network    </br>
+
+### Week 03 浅层神经网络    </br>
+
+### note1 The general methodology to build a Neural Network    </br>
 **Reminder**: The general methodology to build a Neural Network is to:    </br>
     1. Define the neural network structure ( # of input units,  # of hidden units, etc).     </br>
     2. Initialize the model's parameters    </br>
@@ -40,3 +43,14 @@ Common steps for pre-processing a new dataset are:
         * Compute loss    </br>
         * Implement backward propagation to get the gradients    </br>
         * Update parameters (gradient descent)    </br>
+
+
+### Week 04 深层神经网络    </br>
+### note1 关于在初始化参数中，对np.random.seed(seed = None)的理解    </br>
+* np.random.seed(seed = None)对此函数，若指定seed值，那下部分中使用np.random.fun()函数的值会相等。相反，若不给予seed值，则会得到不同的结果。    </br>
+>>seed( ) 用于指定随机数生成时所用算法开始的整数值。     </br>
+>>1.如果使用相同的seed( )值，则每次生成的随即数都相同；     </br>
+>>2.如果不设置这个值，则系统根据时间来自己选择这个值，此时每次生成的随机数因时间差异而不同。     </br>
+>>3.设置的seed()值仅一次有效    </br>
+
+
