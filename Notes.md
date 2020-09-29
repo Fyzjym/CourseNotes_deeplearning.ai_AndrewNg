@@ -53,4 +53,7 @@ Common steps for pre-processing a new dataset are:
 >>2.如果不设置这个值，则系统根据时间来自己选择这个值，此时每次生成的随机数因时间差异而不同。     </br>
 >>3.设置的seed()值仅一次有效    </br>
 
+## Course 02 改善深层神经网络：超参数调试、正则化以及优化    </br>
 
+### Week 01 度学习的实用层面    </br>
+* Make sure dev（验证集） and test set come from distribution. </br>
