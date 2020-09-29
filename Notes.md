@@ -55,5 +55,5 @@ Common steps for pre-processing a new dataset are:
 
 ## Course 02 改善深层神经网络：超参数调试、正则化以及优化    </br>
 
-### Week 01 度学习的实用层面    </br>
+### Week 01 深度学习的实用层面    </br>
 * Make sure dev（验证集） and test set come from distribution. </br>
