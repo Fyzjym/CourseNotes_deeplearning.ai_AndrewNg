@@ -9,3 +9,6 @@ https://blog.csdn.net/u013733326/article/details/79827273
 
 ## 参考
 https://github.com/Kulbear/deep-learning-coursera
+
+## 黄广海博士深度学习笔记
+https://github.com/fengdu78/deeplearning_ai_books
