@@ -12,3 +12,9 @@ https://github.com/Kulbear/deep-learning-coursera
 
 ## 黄广海博士深度学习笔记
 https://github.com/fengdu78/deeplearning_ai_books
+
+## cnn反向传播算法公式推导    
+卷积神经网络(CNN)反向传播算法     
+https://www.cnblogs.com/pinard/p/6494810.html?tdsourcetag=s_pcqq_aiomsg    
+手推DNN，CNN池化层，卷积层反向传播    
+https://zhuanlan.zhihu.com/p/79584889
